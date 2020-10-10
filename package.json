@@ -1,0 +1,25 @@
+{
+  "name": "proyecto-fullstack-academlo",
+  "version": "1.0.0",
+  "description": "Proyecto node echo por braulio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hermez-Black/Proyecto-full-stack.git"
+  },
+  "author": "Braulio Alexis Lechuga Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hermez-Black/Proyecto-full-stack/issues"
+  },
+  "homepage": "https://github.com/Hermez-Black/Proyecto-full-stack#readme",
+  "dependencies": {
+    "pg": "^8.4.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
+  }
+}
